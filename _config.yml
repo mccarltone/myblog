@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Beer Pope
+author: Matt Carlton
 email: mcarlton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Random stuff I'm working on, be it beer related, webdev related, etc.
