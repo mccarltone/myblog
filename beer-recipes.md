@@ -4,4 +4,5 @@ title: Beer Recipes
 permalink: /beer-recipes/
 ---
 
-Hey
+* [Cream Ale](/beer-recipes/cream-ale.md)
+* [Belgian Golden Strong](/beer-recipes/belgian-golden-strong.md)
