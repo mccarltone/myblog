@@ -21,7 +21,7 @@ I intended on this beer to be a Belgian Blonde but it dried out more than I inte
 |--------|---------|-------|--------|-------|
 | Lublin | 1.25 oz | 4.7   | 60 min | 20.22 |
 
-I used Lubin because I had a good bit of it in the freezer. Any saaz-type hop would work well here.
+I used Lublin because I had a good bit of it in the freezer. Any saaz-type hop would work well here.
 
 ### Water Chemistry
 
