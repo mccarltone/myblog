@@ -13,4 +13,3 @@ Here’s some photos of my most recent work. I was tasked with making some signa
 
 
 {% include image-gallery.html folder="/assets/work-photos" %}
-
